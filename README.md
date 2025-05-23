@@ -1,7 +1,9 @@
 # hello everyone :) Jessica here! ✨
-I’m a passionate developer who loves creating sleek, user-friendly digital experiences that bring ideas to life. 🚀💻  
-🌟 I focus on crafting clean UIs, writing maintainable code, and exploring the latest tools and design trends to build modern web and mobile apps. 📱🖌️✨  
-📸 When I’m not coding, you’ll find me chasing sunsets, stars, and capturing the beauty of the skies with my camera — always with a playlist in the background. 🌅🌌🎧
+I’m a passionate developer who loves creating sleek, user-friendly digital experiences that bring ideas to life. 🚀💻 
+
+I focus on crafting clean UIs, writing maintainable code, and exploring the latest tools and design trends to build modern web and mobile apps. 📱🖌️✨ 
+
+When I’m not coding, you’ll find me chasing sunsets, stars, and capturing the beauty of the skies with my camera — always with a playlist in the background. 🌅🌌🎧
 
 
 ## 🌐 Socials:
