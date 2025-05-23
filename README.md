@@ -1,5 +1,7 @@
 # hello everyone :) Jessica here! ✨
-I’m a passionate web and app developer who loves building sleek, user-friendly digital experiences. From crafting clean UIs to bringing ideas to life with code, I enjoy every step of the creative dev process! 🚀💻<br><br>🌟 What I'm into:<br>Developing modern web & mobile apps 📱💡<br><br>Writing clean, maintainable code with a focus on great UX/UI 🖌️🧠<br><br>Exploring new tools, frameworks, and design trends 🧰✨<br><br>📸 Beyond code:<br>When I’m not debugging or designing, I’m usually out chasing sunsets, stars, and sky shots 🌅🌌📷 — always with a camera in hand and a playlist in my ears 🎧
+I’m a passionate developer who loves creating sleek, user-friendly digital experiences that bring ideas to life. 🚀💻  
+🌟 I focus on crafting clean UIs, writing maintainable code, and exploring the latest tools and design trends to build modern web and mobile apps. 📱🖌️✨  
+📸 When I’m not coding, you’ll find me chasing sunsets, stars, and capturing the beauty of the skies with my camera — always with a playlist in the background. 🌅🌌🎧
 
 
 ## 🌐 Socials:
